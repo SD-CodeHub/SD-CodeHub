@@ -184,17 +184,17 @@ values: [Quality, Innovation, Excellence]
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<br><b>50+ Projects</b>
+<br><b>5+ Projects</b>
 <br>Successfully Delivered
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<br><b>20+ Clients</b>
+<br><b>10+ Clients</b>
 <br>Happy & Growing
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<br><b>5+ Years</b>
+<br><b>1+ Years</b>
 <br>Industry Experience
 </td>
 <td align="center" width="25%">
@@ -216,9 +216,6 @@ values: [Quality, Innovation, Excellence]
 <div align="center">
 
 ## 🌟 Why SD CodeHub?
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-
 </div>
 
 <table>
