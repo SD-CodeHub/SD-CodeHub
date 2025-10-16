@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="sd-codehub.github.io/SD-CodeHub-Web/"><img src="https://img.shields.io/badge/🌐_Website-www.sdcodehub.com-00D9FF?style=for-the-badge&labelColor=000000"></a>
+  <a href="https://sd-codehub.github.io/SD-CodeHub-Web/"><img src="https://img.shields.io/badge/🌐_Website-www.sdcodehub.com-00D9FF?style=for-the-badge&labelColor=000000"></a>
   <a href="https://github.com/SD-CodeHub"><img src="https://img.shields.io/badge/⚡_GitHub-SD--CodeHub-181717?style=for-the-badge&logo=github"></a>
   <a href="https://instagram.com/sd_codehub"><img src="https://img.shields.io/badge/📸_Instagram-@sd__codehub-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sd-codehub-97aa91389/"><img src="https://img.shields.io/badge/💼_LinkedIn-SD%20CodeHub-0A66C2?style=for-the-badge&logo=linkedin"></a>
